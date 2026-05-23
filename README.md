@@ -31,19 +31,20 @@ I like building practical tools that sit between software, systems, and hardware
 
 ## Projects
 
-### 🔐 claw-security-advisor
-A tool that analyzes installed components for potentially risky behavior patterns like:
-- system command execution  
-- file access or deletion  
-- external network calls  
-- obfuscated or unclear logic  
+### 🔐 claw-security-auditor
 
-It produces a simple risk score and summary to help understand what a component might be doing.
+An autonomous security auditing tool for OpenClaw skills.
+
+🔗 https://github.com/TheElephantCoder/claw-security-auditor
+
 
 ---
 
 ### 🔌 NexusUSB
-A USB-focused utility project exploring how devices interact with systems and how data flows between hardware and software layers.
+
+A professional bootable USB rescue toolkit containing 150+ utilities for system recovery and diagnostics.
+
+🔗 https://github.com/TheElephantCoder/NexusUSB
 
 ---
 
