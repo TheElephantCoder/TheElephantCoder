@@ -1,16 +1,16 @@
 # Hi 👋, I'm @TheElephantCoder
 
-I like building practical tools that sit between software, systems, and hardware—especially things that explore how devices, security, and containers work together.
+I like building practical tools...
 
 ---
 
 ## About Me
 
 - 🔐 Interested in security tooling and system behavior analysis  
-- 🔌 Enjoy working on USB and device-level projects  
+- 🔌 Enjoy working on device-level projects  
 - 🐳 Like building and packaging tools with Docker  
 - 🧠 Curious about how systems behave under the hood  
-- 💻 Build small projects to learn by experimenting  
+- 💻 Build small projects to learn by doing  
 
 ---
 
@@ -40,11 +40,11 @@ An autonomous security auditing tool for OpenClaw skills.
 
 ---
 
-### 🔌 NexusUSB
+### 🔌 NexUSB
 
 A professional bootable USB rescue toolkit containing 150+ utilities for system recovery and diagnostics.
 
-🔗 https://github.com/TheElephantCoder/NexusUSB
+🔗 https://github.com/TheElephantCoder/NexUSB
 
 ---
 
