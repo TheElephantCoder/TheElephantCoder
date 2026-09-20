@@ -6,11 +6,11 @@ I like building practical tools...
 
 ## About Me
 
-- 🔐 Interested in security tooling and system behavior analysis  
-- 🔌 Enjoy working on device-level projects  
-- 🐳 Like building and packaging tools with Docker  
-- 🧠 Curious about how systems behave under the hood  
-- 💻 Build small projects to learn by doing  
+- 🔐 Interested in security tooling and system behavior analysis
+- 🔌 Enjoy working on device-level projects
+- 🐳 Like building and packaging tools with Docker
+- 🧠 Curious about how systems behave under the hood
+- 💻 Build small projects to learn by doing
 
 ---
 
@@ -27,16 +27,32 @@ I like building practical tools...
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-1E90FF?style=flat)
 ![Security](https://img.shields.io/badge/Security-8A2BE2?style=flat)
+
 ---
 
 ## Projects
+
+### 🚀 agent-harness
+
+Performance layer for coding agents — skills, instincts, memory, security and research-first for Claude Code, Codex, Opencode, Cursor, Kiro, Cline, Aider.
+
+🔗 https://github.com/TheElephantCoder/agent-harness
+
+---
+
+### 📦 bit-compact
+
+Zero-dep Rust engine for SQ8 scalar quantization — 4× smaller embeddings, zero-alloc seeks, Send+Sync reader.
+
+🔗 https://github.com/TheElephantCoder/bit-compact
+
+---
 
 ### 🔐 claw-security-auditor
 
 An autonomous security auditing tool for OpenClaw skills.
 
 🔗 https://github.com/TheElephantCoder/claw-security-auditor
-
 
 ---
 
@@ -45,13 +61,6 @@ An autonomous security auditing tool for OpenClaw skills.
 A professional bootable USB rescue toolkit containing 150+ utilities for system recovery and diagnostics.
 
 🔗 https://github.com/TheElephantCoder/NexUSB
-
----
-
-### 🐳 Znail-Docker
-A Docker-based setup for running Znail in a consistent and lightweight environment.
-
-🔗 https://github.com/TheElephantCoder/Znail-Docker
 
 ---
 
@@ -68,5 +77,4 @@ A Docker-based setup for running Znail in a consistent and lightweight environme
 ## Connect
 
 - GitHub: https://github.com/TheElephantCoder
-
----
+- Site: https://theelephantcoder.github.io
