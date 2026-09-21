@@ -4,15 +4,6 @@ I like building practical tools...
 
 ---
 
-## About Me
-
-- 🔐 Interested in security tooling and system behavior analysis
-- 🔌 Enjoy working on device-level projects
-- 🐳 Like building and packaging tools with Docker
-- 🧠 Curious about how systems behave under the hood
-- 💻 Build small projects to learn by doing
-
----
 
 ## Skills & Tools
 
