@@ -47,14 +47,6 @@ An autonomous security auditing tool for OpenClaw skills.
 
 ---
 
-### 🔌 NexUSB
-
-A professional bootable USB rescue toolkit containing 150+ utilities for system recovery and diagnostics.
-
-🔗 https://github.com/TheElephantCoder/NexUSB
-
----
-
 ## What I Like Working On
 
 - Low-level system behavior
